@@ -61,7 +61,7 @@ require (
 require (
 	github.com/0xPolygon/go-ibft v0.4.0
 	github.com/docker/docker v20.10.18+incompatible
-	github.com/docker/go-connections v0.4.0
+	github.com/docker/go-connections v0.4.0 // indirect
 	go.etcd.io/bbolt v1.3.6
 )
 
@@ -195,7 +195,7 @@ require (
 	github.com/multiformats/go-varint v0.0.7 // indirect
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
-	github.com/opencontainers/image-spec v1.0.1 // indirect
+	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opencontainers/runc v0.1.1 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
